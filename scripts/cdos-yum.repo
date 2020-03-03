@@ -1,0 +1,5 @@
+[cdos-yum]
+baseurl=http://10.176.72.70:5558/artifactory/cdos-yum
+enabled=1
+gpgcheck=0
+name=cdos-yum
